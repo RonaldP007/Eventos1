@@ -1,0 +1,11 @@
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Datos.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Npgsql.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Datos.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Npgsql.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\bin\Debug\Npgsql.xml
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Negocio\obj\Debug\Negocio.pdb

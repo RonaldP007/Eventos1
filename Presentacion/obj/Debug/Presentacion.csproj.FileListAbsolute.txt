@@ -1,0 +1,17 @@
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Datos.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Npgsql.dll
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Npgsql.pdb
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\bin\Debug\Npgsql.xml
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ronald\Documents\c# soluciones\Eventos\Presentacion\obj\Debug\Presentacion.pdb
